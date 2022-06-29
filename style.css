@@ -208,7 +208,7 @@ a {
         display: none;
     }
     .frame{
-        display: grid;
+        display: flex;
         align-items: center;
 }
 }
