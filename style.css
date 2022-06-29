@@ -207,4 +207,7 @@ a {
     .logo {
         display: none;
     }
+    .frame{
+        display: grid;
+        align-items: center;
 }
